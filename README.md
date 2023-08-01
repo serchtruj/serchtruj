@@ -1,43 +1,27 @@
 # 👋 Hello, I'm Sergio Trujillo!
 
-I'm a passionate software developer with over 5 years of experience. My main focus is on web development, and my go-to language is JavaScript. I also have experience with Java and other technologies in the web development ecosystem.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-adrian-trujillo-196561101/)
 
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="GIF" width="250" height="200" style="border-radius: 50%;">
 
 ## 🛠️ Technologies and Tools
 
-### Programming Languages
-- JavaScript 🌟🌟🌟🌟🌟
-- Java 🌟🌟
+🚀 **Programming Languages**: 
+- JavaScript (Main) 🌟🚀
+- Java (Some experience) ☕️🌱
 
-### Frameworks and Libraries
-- React.js ⚛️🌟🌟🌟🌟🌟
-- Node.js 🚀🌟🌟🌟🌟
-- Express.js 🚂🌟🌟🌟🌟
-- React Native 📱⚛️🌟🌟🌟
-- TypeScript 🦕🌟🌟🌟
-- Nest.js 🐤🚀🌟🌟
-- Vue.js 🎨⚡️🌟🌟
-- Material UI 💄💅🌟🌟🌟
-- Bootstrap 🥾💼🌟🌟🌟
-- Fhir 💊💉🌟🌟
-- Eslint 🔍✅🌟🌟🌟
-- Spring 🍃☀️🌟🌟
-- Spring Boot 🍃☀️💼🌟🌟
+💻 **Frontend**: React.js, Vue.js, Bootstrap, Material UI
 
-### Databases
-- MongoDB 🍃💾💻🌟🌟🌟
-- MySQL 🐬💾💻🌟🌟🌟
+🔙 **Backend**: Node.js, Express.js, Next.js, Spring, Spring Boot
 
-### Testing
-- Cypress.io 🔍✅💻🌟🌟🌟
-- Jest ✅💻🌟🌟🌟
-- React Testing Library ✅💻🌟🌟🌟
+📱 **Mobile**: React Native
 
-## 📫 Let's Connect!
+🦕 **Type Checking**: TypeScript
 
-If you're interested in collaborating on a project or discussing new opportunities, feel free to connect with me on:
+🗄️ **Databases**: MongoDB, MySQL
 
-- [LinkedIn](https://www.linkedin.com/in/sergio-adrian-trujillo-196561101/) 💼👔
+🔍 **Testing**: Cypress.io, Jest, React Testing Library
 
-Let's create amazing things together! 🚀✨
+## 🚀 Let's Create Together!
+
+I'm always excited about collaborating on interesting projects and exploring new opportunities. If you have a project in mind or want to discuss anything related to software development, feel free to reach out to me. ✨🚀
